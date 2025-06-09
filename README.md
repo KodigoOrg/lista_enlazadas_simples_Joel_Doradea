@@ -16,11 +16,7 @@ El archivo `Main.java` contiene un ejemplo de uso de la lista enlazada simple, m
 ## Instrucciones para Compilar y Ejecutar
 1. Asegúrate de tener instalado Java (JDK 8 o superior).
 2. Abre una terminal y navega a la carpeta `src` del proyecto.
-3. Compila los archivos Java con el siguiente comando:
-   ```
-   javac *.java
-   ```
-4. Ejecuta el programa principal:
+3. Ejecuta el programa principal:
    ```
    java Main
    ```
